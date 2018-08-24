@@ -275,13 +275,13 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Awards"
+  url = "#tags"
   weight = 4
 
 [[menu.main]]
-  name = "Awards"
-  url = "#tags"
+  name = "Projects"
+  url = "#projects"
   weight = 4
 
 [[menu.main]]
