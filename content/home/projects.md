@@ -42,4 +42,15 @@ filter_default = 0
 #   tag = "Demo"
 
 +++
+- UlTraMan: A Unified Platform for Big Trajectory Data Management and Analytics (VLDB)
+- SP-Cache: Load-balanced, Redundancy-free Cluster Caching with Selective Partition (SC18)
+
+
+
+
+
+
+
+
+
 

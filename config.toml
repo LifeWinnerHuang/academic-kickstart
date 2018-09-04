@@ -9,11 +9,11 @@
 baseurl = "https://lifewinnerhuang.github.io/"
 
 # Title of your site
-title = "RENFEI HUANG"
+title = "RENFEI HUANG @HKUST VISLab"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; Renfei HUANG 2018"
 
 theme = "academic"
 enableEmoji = true
@@ -75,7 +75,7 @@ enableGitInfo = false
   email = "rhuangan@ust.hk"
   address = "Main Building Room 4217A, HKUST, Clear Water Bay, Kowloon, Hong Kong"
   office_hours = "Email me for appointment"
-  phone = "086 17816859183"
+  phone = "+86 17816859183 / +852 51489964"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -229,6 +229,13 @@ enableGitInfo = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
+  # Link to a PDF of your resume/CV from the About widget.
+  # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+  [[params.social]]
+    icon = "cv"
+    icon_pack = "ai"
+    link = "files/cv.pdf"
+
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
@@ -249,12 +256,7 @@ enableGitInfo = false
     icon_pack = "fa"
     link = "//github.com/lifewinnerhuang"
 
-  # Link to a PDF of your resume/CV from the About widget.
-  # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  # [[params.social]]
-  #   icon = "cv"
-  #   icon_pack = "ai"
-  #   link = "files/cv.pdf"
+
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -281,7 +283,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Awards"
-  url = "#tags"
+  url = "#awards"
   weight = 4
 
 [[menu.main]]

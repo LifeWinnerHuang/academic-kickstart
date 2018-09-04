@@ -19,7 +19,12 @@ weight = 5
 # List your qualifications (such as academic degrees).
 
 [[education.courses]]
-  course = "BSc in Computer Science & Engineering"
+  course = "BEng in Computer Science & Engineering"
+  institution = "Zhejiang University"
+  year = 2018
+
+[[education.courses]]
+  course = "Honor Degree at Chu Kochen Honors College"
   institution = "Zhejiang University"
   year = 2018
  
@@ -27,4 +32,5 @@ weight = 5
 
 # Biography
 
-Renfei HUANG is currently a first year Ph.D. student at the Hong Kong University of Science and Technology. 
+Renfei is currently a first-year Ph.D. student in the Department of Computer Science and Engineering at the Hong Kong University of Science and Technology. He’s supervisor is Prof. QU Huamin (http://huamin.org). He is a member of VisLab at HKUST (http://vis.cse.ust.hk/). In his spare time, he enjoys swimming and dancing, such as Tango or Latin. He is a fan of Hi-Fi music devices. 
+
