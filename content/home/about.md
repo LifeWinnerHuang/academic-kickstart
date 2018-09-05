@@ -32,5 +32,6 @@ weight = 5
 
 # Biography
 
-Renfei is currently a first-year Ph.D. student in the Department of Computer Science and Engineering at the Hong Kong University of Science and Technology. He’s supervisor is Prof. QU Huamin (http://huamin.org). He is a member of VisLab at HKUST (http://vis.cse.ust.hk/). In his spare time, he enjoys swimming and dancing, such as Tango or Latin. He is a fan of Hi-Fi music devices. 
+Renfei is currently a first-year Ph.D. student in the Department of Computer Science and Engineering at the Hong Kong University of Science and Technology. He’s supervisor is Prof. QU Huamin (http://huamin.org). He is a member of VisLab at HKUST (http://vis.cse.ust.hk/). He was supervised by Prof. Yunjun GAO (http://mypage.zju.edu.cn/en/gaoyj_en) in his undergraduate study. 
+In his spare time, he enjoys swimming and dancing, such as Tango or Latin. He is a fan of Hi-Fi music devices. 
 
